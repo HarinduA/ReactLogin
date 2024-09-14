@@ -1,2 +1,2 @@
 # ReactLogin
-This is a React Login page backend use with NOdeJs and MSQL server
+This is a React Login page backend use with NodeJs and MSSQL server
